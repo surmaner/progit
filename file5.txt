@@ -1,0 +1,1 @@
+This is an attempt to add text to a file with cat.This is a second attempt - trying to append already existing text with cat >>.
